@@ -1,7 +1,8 @@
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=stephane&show_icons=true&include_all_commits=true)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=stephane&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephane&count_private=true&show_icons=true&layout=compact)
 
 <!--
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=stephane&show_icons=true&include_all_commits=true)
 **stephane/stephane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
